@@ -4,4 +4,4 @@ pip install pyinstaller
 
 # to create the actual application
 # replace my_app.py with your script_name.py
-pyinstaller my_app.py --windowed
+pyinstaller my_app.py --windowed --onefile
