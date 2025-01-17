@@ -19,3 +19,4 @@ print(result_list)
 
 stop_time = time.time()
 print(f"Executed in {stop_time - start_time}")
+
